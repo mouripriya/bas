@@ -1,0 +1,63 @@
+{
+	"Sample":[{
+		"CorrectionId": "1000001509",
+		"Type": "BOL",
+		"Plant" : "US01",
+		"Shift" : "01",
+        "ActDate": "10/04/2022",
+        "Status": "DRAFT",
+        "StartDate": "12/08/2022",
+        "StartTime": "20:09:28",
+        "CreateDate": "10/04/2022",
+        "CreateTime": "12:35:12",
+        "CreatedBy": "BTPCPIC",
+        "ActualMonth": "00",
+        "SubDate": ""
+
+	},
+	{
+		"CorrectionId": "1000001501",
+		"Type": "BOL",
+		"Plant" : "US01",
+		"Shift" : "01",
+        "ActDate": "10/04/2022",
+        "Status": "DRAFT",
+        "StartDate": "12/08/2022",
+        "StartTime": "20:09:28",
+        "CreateDate": "10/04/2022",
+        "CreateTime": "12:35:12",
+        "CreatedBy": "BTPCPIC",
+        "ActualMonth": "00",
+        "SubDate": ""
+	},
+    {
+		"CorrectionId": "1000001415",
+		"Type": "BOL",
+		"Plant" : "US01",
+		"Shift" : "01",
+        "ActDate": "09/30/2022",
+        "Status": "PENDING TM APPROVAL",
+        "StartDate": "12/08/2022",
+        "StartTime": "20:09:27",
+        "CreateDate": "09/30/2022",
+        "CreateTime": "12:35:12",
+        "CreatedBy": "BTPCPIC",
+        "ActualMonth": "00",
+        "SubDate": ""
+	},
+    {
+		"CorrectionId": "1000001501",
+		"Type": "BOL",
+		"Plant" : "US01",
+		"Shift" : "01",
+        "ActDate": "10/04/2022",
+        "Status": "DRAFT",
+        "StartDate": "12/08/2022",
+        "StartTime": "20:09:28",
+        "CreateDate": "09/30/2022",
+        "CreateTime": "12:35:12",
+        "CreatedBy": "BTPCPIC",
+        "ActualMonth": "00",
+        "SubDate": ""
+	}]
+}
