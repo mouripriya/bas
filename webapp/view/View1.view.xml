@@ -280,7 +280,7 @@
 		<f:footer>
 			<OverflowToolbar>
 				<ToolbarSpacer/>
-				<Button type="Emphasized" text="cancel" press="onCancel" enabled="{BindingModel>/submitEnabled}"/>
+				<Button type="Emphasized" text="cancel" press="onCancel" />
 				<Button type="Emphasized" text="submit" press="onSubmit" enabled="{BindingModel>/submitEnabled}"/>
 			</OverflowToolbar>
 		</f:footer>
